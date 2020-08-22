@@ -1,0 +1,183 @@
+{
+  "people":{
+    "loadmore":1,
+    "results":[
+      {
+        "name": "CToni Negri",
+        "img": "https://picsum.photos/200/200"
+      },
+      {
+        "name": "CLance James",
+        "img": "https://picsum.photos/200/200"
+      },
+      // {
+      //   "name": "CSandra Villanueva",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CBenny Conner",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CMathew Bernard",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CLee Griffiths",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CJamal Farley",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CAlicja Rowe",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CYusha Pugh",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CAmit Buxton",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CMichelle Obama",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CGiuseppe Conte",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+      // {
+      //   "name": "CVladimir Putin",
+      //   "img": "https://picsum.photos/200/200"
+      // },
+    ]
+  },
+  "articles": {
+    "loadmore":1,
+    "results":[
+      {
+        "name": "C++",
+        "year": 1983,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+      },
+      {
+        "name": "C Perl",
+        "year": 1987,
+        "type": "B",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Haskell",
+        "year": 1990,
+        "type": "a3",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Python",
+        "year": 1991,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Java",
+        "year": 1995,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Javascript",
+        "year": 1995,
+        "type": "B",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "PHP",
+        "year": 1995,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Ruby",
+        "year": 1995,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "C#",
+        "year": 2000,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Scala",
+        "year": 2003,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Clojure",
+        "year": 2007,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      },
+      {
+        "name": "Go",
+        "year": 2009,
+        "type": "a1",
+        "img": "https://picsum.photos/400/200", 
+        "title": "Article title",
+        "subtitle": "This is a subtitle",
+        "text": "this is some more text"
+
+      }
+    ]
+  },
+};
